@@ -1,0 +1,1 @@
+# bootstrapping-a-company-notes
