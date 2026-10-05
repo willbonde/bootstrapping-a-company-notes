@@ -16,6 +16,12 @@ Unless you already have a ton of customers lined up, I'd prioritize convenience 
 
 I recommend [Brex](https://partners.brex.com/perks) and [Novo](https://www.novo.co/perks). Both offer perks that can help you save on tools and infrastructure, etc.
 
+The perks are good, but redeeming them can take some extra work.
+
+#### Xero
+
+The Brex link didn't apply the Xero offer for me. I had to contact Xero support, who gave me a code to redeem it. I got the offer in the end, but it wasn't friction free.
+
 ## License
 
 Except where otherwise noted, these notes are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). When sharing or adapting them, please credit the author, link back to this repository, and indicate if changes were made.
