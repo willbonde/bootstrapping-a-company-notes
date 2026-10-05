@@ -18,9 +18,13 @@ I recommend [Brex](https://partners.brex.com/perks) and [Novo](https://www.novo.
 
 The perks are good, but redeeming them can take some extra work.
 
-#### Xero
+#### Xero - *via Brex*
 
 The Brex link didn't apply the Xero offer for me. I had to contact Xero support, who gave me a code to redeem it. I got the offer in the end, but it wasn't friction free.
+
+#### AWS - *via Brex*
+
+AWS offers Brex users a $5,000 credit, but I've run into issues with Brex verifying my account. AWS confirmed they contacted Brex, and apparently Brex said I don't have an account. My AWS and Brex accounts use the same email, so that's not the issue. I'm currently working to resolve this.
 
 ## License
 
