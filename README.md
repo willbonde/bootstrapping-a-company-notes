@@ -2,6 +2,8 @@
 
 I hope these notes make bootstrapping your own company a little easier. They're based on my experience and shared as-is, with no warranty or guarantees. Take what's useful and use your own judgment. Your mileage may vary.
 
+Some links include referral codes.
+
 ## Perks
 
 Many startup perks are pretty small when you're bootstrapping. The bigger offers often require VC backing.
@@ -14,7 +16,9 @@ Anyway, here's my experience.
 
 Unless you already have a ton of customers lined up, I'd prioritize convenience and ease of use over getting lost in the finer details of banking.
 
-I recommend [Brex](https://partners.brex.com/perks) and [Novo](https://www.novo.co/perks). Both offer perks that can help you save on tools and infrastructure, etc.
+I recommend [Brex](https://brex.com/signup?rc=J90yjq7) and [Novo](https://onboarding.novo.co/signup?referral_code=WilliamBonde1&first_name=William). Both offer perks that can help you save on tools and infrastructure, etc.
+
+See the [Brex perks](https://partners.brex.com/perks) and [Novo perks](https://www.novo.co/perks) pages for their offers.
 
 The perks are good, but redeeming them can take some extra work.
 
